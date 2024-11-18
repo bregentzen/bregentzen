@@ -1,16 +1,17 @@
-## Hi there 👋
+# Moin!, I'm Daniel 👋
 
-<!--
-**bregentzen/bregentzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am currently a student at the University of Applied Science in Osnabrück, pursuing a degree in "Informatik - Medieninformatik (B.Sc.)".
+Besides that, im currently working as a part of IT Support Applications at Vogelsang GmbH & Co. KG, located in Essen(Oldenburg) in Germany, where I'm going to work on my bachelor's thesis.
+I got most of my software engineering experience in Java and C++, but my university focuses on learning concepts and theory in general for every programming language instead of just focusing on one.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [university]: mailto:daniel.bregen@hs-osnabrueck.de
+- [work]: mailto:daniel.bregen@vogelsang.info
+- [private]: mailto:danielbregen@outlook.de
+
+## 🌟 Projects
+- until I finish my bachlor's degree, my github will focus on my work for completing the needed modules.
