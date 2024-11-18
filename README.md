@@ -15,3 +15,8 @@ I got most of my software engineering experience in Java and C++, but my univers
 
 ## 🌟 Projects
 - until I finish my bachlor's degree, my github will focus on my work for completing the needed modules.
+
+## 🔭 Outlook
+Some projects i would love to work on in the future:
+- making my own minecraft mod with the fabric-api
+- renewing the bc-bw-ermke.de website with ionic/angular to reduce the security risk with the currently used joomla-cms
