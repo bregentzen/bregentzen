@@ -6,7 +6,7 @@ Besides that, im currently working as a part of IT Support Applications at Vogel
 I got most of my software engineering experience in Java and C++, but my university focuses on learning concepts and theory in general for every programming language instead of just focusing on one.
 
 ## 🛠 Skills
-- **Languages**: Java, C++
+- **Languages**: Java, C++, TypeScript
 
 ## 📫 How to reach me
 - university: mailto:daniel.bregen@hs-osnabrueck.de
