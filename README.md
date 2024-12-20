@@ -12,7 +12,6 @@ I got most of my software engineering experience in Java and C++, but my univers
 ## 📫 How to reach me
 - university: mailto:daniel.bregen@hs-osnabrueck.de
 - work: mailto:daniel.bregen@vogelsang.info
-- private: mailto:danielbregen@outlook.de
 
 ## 🌟 Projects
 - until I finish my bachlor's degree, my github will focus on my work for completing the needed modules.
