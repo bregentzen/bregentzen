@@ -6,8 +6,11 @@ Besides that, im currently working as a part of IT Support Applications at Vogel
 I got most of my software engineering experience in Java and C++, but my university focuses on learning concepts and theory in general for every programming language instead of just focusing on one.
 
 ## 🛠 Skills
-- **Languages**: Java, C++, C, JavaScript, TypeScript, PHP, Python, (HTML, CSS, SQL)
-- **Frameworks**: Angular, Ionic, Laravel
+- **Languages**:
+                Advanced: Java, C++
+                Beginner: C, JavaScript, TypeScript, PHP, Python
+                Mentionable: HTML, CSS, SQL
+- **Frameworks**: Quarkus, Angular, Ionic, Laravel
 
 ## 📫 How to reach me
 - university: mailto:daniel.bregen@hs-osnabrueck.de
@@ -18,5 +21,4 @@ I got most of my software engineering experience in Java and C++, but my univers
 
 ## 🔭 Outlook
 Some projects i would love to work on in the future:
-- making my own minecraft mod with the fabric-api
-- renewing the bc-bw-ermke.de website with ionic/angular
+- updating the website of my local sports club (bc-bw-ermke.de) with ionic/angular to include a whole ecosystem for members and people that want to join
